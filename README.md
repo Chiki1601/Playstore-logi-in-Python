@@ -1,2 +1,2 @@
-# Playstore-logi-in-Python
+# Playstore-logo-in-Python
 Library: turtle
